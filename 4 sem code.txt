@@ -1,0 +1,8 @@
+
+## meka mulin run karadddi danna onema ekk#####
+mkdir uploads
+link http://127.0.0.1:5000/api/v1/detect_object
+
+body ->from data 
+key=image
+start= python main.py
